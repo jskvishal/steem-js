@@ -1,10 +1,10 @@
 {
   "transport": "http",
-  "websocket": "wss://gtg.steem.house:8090",
-  "uri": "https://api.steemit.com",
+  "websocket": "wss://143.198.180.171:9000",
+  "uri": "http://143.198.180.171:9000",
   "url": "",
-  "dev_uri": "https://api.steemitdev.com",
-  "stage_uri": "https://api.steemitstage.com",
-  "address_prefix": "STM",
-  "chain_id": "0000000000000000000000000000000000000000000000000000000000000000"
+  "dev_uri": "http://143.198.180.171:9000",
+  "stage_uri": "http://143.198.180.171:9000",
+  "address_prefix": "WTH",
+  "chain_id": "d909c4dfab0369c4ae4f4acaf2229cc1e49b3bba0dffb36a37b6174a6f391e2e"
 }
